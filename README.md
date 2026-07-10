@@ -1,4 +1,4 @@
-# Hi, I'm Swapnika 👋
+# Hi, I'm Swapnika k 👋
 
 Aspiring AI/ML Engineer and B.Tech IT student, passionate about Generative AI, Agentic AI, and building intelligent, full-stack applications. I like turning ML models and LLMs into real, usable products — not just notebooks.
 
