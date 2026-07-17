@@ -1,5 +1,3 @@
----
-
 # 💼 Professional Profile
 
 ```python
