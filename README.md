@@ -70,17 +70,72 @@ class SwapnikaK:
 
 # 🛠️ Tech Stack
 
-**Languages:** Python • Java • JavaScript • C • C++ • SQL
+<div align="center">
 
-**Frontend:** React • HTML • CSS
+## 💻 Programming Languages
 
-**Backend:** FastAPI • Node.js • Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,mysql" />
+</p>
 
-**Database:** MongoDB • MySQL
+---
 
-**AI/ML:** Pandas • NumPy • Scikit-Learn • TensorFlow • Keras • Matplotlib • Seaborn • Streamlit • Plotly • Power BI
+## 🌐 Frontend Development
 
-**Tools:** Git • GitHub • VS Code • Postman
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## 🤖 AI • Machine Learning • Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+</div>
 
 ---
 
