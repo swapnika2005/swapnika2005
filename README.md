@@ -24,26 +24,32 @@ Building intelligent applications with **AI, Machine Learning, Data Analytics, a
 
 I'm passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development. I enjoy building practical AI-powered products that solve real-world problems.
 
-## 🚀 Current Focus
+# 🌱 Currently Learning
 
-- 🤖 Generative AI & LLMs
-- 🧠 Machine Learning
-- 📊 Data Analytics
-- 💻 Full-Stack Development
-- ☁️ Cloud Computing
-
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- Deep Learning
+- Cloud Computing
+- AI System Design
 ---
 
-# 💼 Professional Profile
-
-```python
-class SwapnikaReddy:
+# 💼 Profile 
+``python
+class Swapnika k:
 
     role = "AI & Machine Learning Enthusiast"
 
     skills = [
         "Python",
         "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Agentic AI",
+        "LLMs",
+        "RAG",
         "Data Analytics",
         "React",
         "FastAPI",
@@ -91,48 +97,92 @@ class SwapnikaReddy:
 
 ---
 
-# 📊 Featured Projects
+📊 Featured Projects
+🤖 MarketMind
 
-## 🤖 MarketMind
-AI-powered investment research platform with stock prediction, sentiment analysis, AI chatbot, and technical indicators.
+AI-powered investment research platform with stock prediction, sentiment analysis, AI chatbot, technical indicators, and AI-driven investment recommendations.
 
-**Tech:** React • FastAPI • Python • Machine Learning
+Tech: React • FastAPI • Python • Machine Learning • Generative AI
 
-🔗 https://github.com/swapnika2005/MarketMind
+🔗 Repository:
+https://github.com/swapnika2005/MarketMind
 
----
+📊 Restaurant Analytics & Rating Prediction
 
-## 📈 Restaurant Analytics & Rating Prediction
+Machine Learning project analyzing 9,551 restaurant records with predictive analytics.
 
-- EDA on 9,551 restaurant records
-- Feature Engineering
-- Geospatial Analysis
-- Linear Regression
-- Random Forest
+Highlights
 
-**Tech:** Python • Pandas • Scikit-learn
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Geospatial Analysis
+Linear Regression
+Random Forest
+Rating Prediction
 
----
+Tech
 
-## ⚠️ Early Warning System
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-ML-based predictive analytics dashboard for risk detection using NLP and trend analysis.
+🔗 Repository:
+https://github.com/swapnika2005/cognifyz_datascience_intenship
 
-**Tech:** Python • Streamlit • Machine Learning
+⚠️ Early Warning System
 
----
+AI-powered predictive analytics dashboard for proactive risk detection through sentiment analysis and trend monitoring.
 
-## 🛒 SHOPMART
+Highlights
 
-Full-stack MERN e-commerce application.
+Predictive Analytics
+NLP & Sentiment Analysis
+Trend Analysis
+News Monitoring
+Interactive Dashboard
 
-**Features**
-- Product Catalog
-- Shopping Cart
-- Responsive UI
+Tech
 
-🔗 https://github.com/swapnika2005/SHOPMART
+Python • Streamlit • Machine Learning • TextBlob • NLTK
 
+🔗 Repository:
+https://github.com/swapnika2005/Early_warning_system
+
+🛒 SHOPMART
+
+Modern MERN Stack e-commerce application with an end-to-end shopping experience.
+
+Highlights
+
+Product Listings
+Shopping Cart
+Responsive UI
+User-Friendly Navigation
+
+Tech
+
+MongoDB • Express.js • React.js • Node.js
+
+🔗 Repository:
+https://github.com/swapnika2005/SHOPMART
+
+🎓 Alumni Database Management System
+
+Desktop-based alumni management system developed using Java and MySQL to streamline alumni records, placement details, event management, and communication between alumni and the institution.
+
+Highlights
+
+Admin & Alumni Login
+Placement Records
+Job Portal
+Event Management
+Search & Filter
+Secure Authentication
+
+Tech
+
+Java • Java Swing • JDBC • MySQL • NetBeans
+
+🔗 Repository:
+https://github.com/swapnika2005/Alumni_Database_Project
 ---
 
 # 🏆 Certifications
